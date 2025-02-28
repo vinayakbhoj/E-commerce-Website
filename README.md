@@ -8,6 +8,7 @@ This is a simple E-Commerce Website where users can browse products, add them to
 - 🗄️ **Database**: MySQL to store product details, user information, and orders
 
 
+
 ## 📂 Technology Stack
 
 | # Layer        | # Technology           |
@@ -16,6 +17,7 @@ This is a simple E-Commerce Website where users can browse products, add them to
 | ⚙️ Backend      | Java, Spring Boot  |
 | 🗄️ Database     | MySQL              |
 | 🔧 Build Tool   | Maven              |
+
 
 
 ## 💡 Features
@@ -29,11 +31,15 @@ This is a simple E-Commerce Website where users can browse products, add them to
 ✅ Responsive design with Bootstrap  
 ✅ Secure data management using MySQL  
 
+
+
 ## 📁 Folder Structure
 
 E-Commerce/  
 ├── Frontend/  --> Angular app (UI)  
 ├── Backend/   --> Java Spring Boot app (API + Logic)  
+
+
 
 ## 📥 Installation Steps : -
 
@@ -52,19 +58,21 @@ Run the main application class (Spring Boot)
 
 ### 4️⃣ Database Setup  
 Create a database in MySQL called ecommerce_db  
-Update your application.properties file in Backend with:
+Update your application.properties file in Backend with :-
 
 spring.datasource.url=jdbc:mysql://localhost:3306/ecommerce_db  
 spring.datasource.username=your-mysql-username  
 spring.datasource.password=your-mysql-password  
+
 
 ## 🚀 How to Run  
 Start the Backend (Spring Boot application)  
 Start the Frontend (Angular application)  
 Open http://localhost:4200 in your browser  
 
+
 ## 📧 Contact  
 If you have any doubts, feel free to contact me at:  
-# 📩 Email: vinaykbhoj31@gmail.com  
+### 📩 Email: vinaykbhoj31@gmail.com  
 
 
